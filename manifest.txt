@@ -1,0 +1,27 @@
+Filename: 0-Task2.zip
+Description: 6 screenshots - Django Server, About Us, Contact Us, Login, Logout, Sigh-Up
+Size: 2215409
+
+Filename: 1-Task3.zip
+Description: 4 Screenshots - Dealerships, Dealer Details, Kansas Dealers, Dealer Review
+Size: 404528
+
+Filename: 2-Task4.zip
+Description: 4 Screenshots - Admin login, Admin logout, Cars, Car Models
+Size: 178825
+
+Filename: 3-Task6.zip
+Description: 6 screenshots - Get Dealers, Get Dealers Logged In, Dealers by State, Dealership Review Submission, Added Review, Dealer ID Reviews
+Size: 425431
+
+Filename: 4-Task8.zip
+Description: 4 Screenshots - Deployed Landing Page, Deployed Logged In, Deployed Dealer Detail, Deployed Add Review
+Size: 2693748
+
+Filename: 5-sentiment_analyzer.png
+Description: Task 5
+Size: 20078
+
+Filename: 6-CICD.png
+Description: Task 7
+Size: 72217
